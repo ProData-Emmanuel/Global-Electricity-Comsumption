@@ -1,5 +1,5 @@
-## NOTE: In this Repo, three (3) different Modeling projects are contained, and they are:
-1. Image Classification task of satellite image chips of the Amazon Rainforests to understand from space what is going on there. This project was completed solely with Deep Neural Network Model called Convolutional Neural Networks(CNN). More details are found in the notebook (Amazon).
+## NOTE: Three (3) different Modeling projects are included in this repository:
+1. Image Classification task of satellite image chips of the Amazon Rainforests to understand from space what is going on there. This project was completed Convolutional Neural Networks(CNN) archtecture. More details are found in the notebook (Amazon).
 
 2. Time Series Analysis to understand Electricity consumption per household. A type of Artificial Neural Network called LSTM (see the notebook)
 
