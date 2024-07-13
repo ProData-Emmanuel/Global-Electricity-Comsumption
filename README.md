@@ -1,5 +1,10 @@
 ## NOTE: Three (3) different Modeling projects are included in this repository:
-1. Image Classification task of satellite image chips of the Amazon Rainforests to understand from space what is going on there. This project was completed Convolutional Neural Networks(CNN) archtecture. More details are found in the notebook (Amazon).
+1. Image Classification task of satellite image chips of the Amazon Rainforests: This project builds artificial intelligence algorithms to label satellite image chips with different atmospheric conditions and the different classes of land cover/land use. The dataset of this multi-label classification project has labels from the following categories: cloud cover (clear, partly, cloudy, haze), primary rainforest, water (rivers, lakes), habitation (large city, small homes), agriculture, roads etc.
+
+This project titled “Planet: Understanding the Amazon from Space” was completed on kaggle as it is considerably computationally expensive.
+
+The algorithms will enable in understanding where, how and why deforestation happens in the Amazon Rainforests. 
+In this project, custom deep Convolutional Neural Networks (CNN) architecture is combined with a pre-trained CNN architecture (VGG16) and implemented in Keras with Tensorflow backend.  More details are found in the notebook (Amazon).
 
 2. Time Series Analysis to understand Electricity consumption per household. A type of Artificial Neural Network called LSTM (see the notebook)
 
