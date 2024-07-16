@@ -6,7 +6,7 @@
 
 
 PROJECT 1
-TITLE: Household Electric Power Consumption
+TITLE: Regression/Clustering: Time Series Analysis
 OBJECTIVE: Apply Time Series Analysis-- Regression / Clustering, to Predict Household Electric Power Consumption.
 	   To understand Electricity consumption per household using Long Short-Term Memory (LSTM).
 METHOD:
@@ -23,8 +23,8 @@ Data Source: https://archive.ics.uci.edu/ml/datasets/individual+household+electr
 =============================================================================================================
 
 ### PROJECT 2
-#### TITLE: Binary Classification Task to predict the Stability of Grid Systems.
-#### OBJECTIVE: To Predict the whether electric grids are stable or not.
+#### TITLE: Electricity Grid System Stability
+#### OBJECTIVE: To Predict whether electric grids are stable or not.
 
 DESCRIPTION/METHOD:
 Electrical grids require a balance between electricity supply and demand in order to be stable. Conventional systems achieve this balance through demand-driven electricity production. For future grids with a high share of inflexible (i.e., renewable) energy source, the concept of demand response is a promising solution. This implies changes in electricity consumption in relation to electricity price changes. In this work, different algorithms were used to built binary classifiers to predict if a grid is stable or unstable using the UCI Electrical Grid Stability Simulated dataset. Performnce Metrics are used to determine the accuracy of the predictions.
